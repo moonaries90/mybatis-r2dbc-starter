@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+ com.lji.mybatis.r2dbc.R2dbcMybatisAutoConfiguration
